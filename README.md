@@ -6,8 +6,8 @@
 - 💬 Ask me about **java, react.js, go**
 
 <h3 align="left">Other:</h3>
-[GitLab](https://gitlab.com/pew7239)
 <p align="left">
+  [GitLab](https://gitlab.com/pew7239)
 </p>
 
 [![PxQo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanyasiris)](https://github.com/anuraghazra/github-readme-stats)
