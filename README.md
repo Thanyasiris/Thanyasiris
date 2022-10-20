@@ -5,7 +5,8 @@
 
 - 💬 Ask me about **java, react.js, go**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other:</h3>
+[GitLab](https://gitlab.com/pew7239)
 <p align="left">
 </p>
 
