@@ -6,7 +6,7 @@
 - 💬 Ask me about **java, react.js, go**
 
 <h3 align="left">Other:</h3>
-[GitLab](https://gitlab.com/pew7239)
+[ GitLab ](https://gitlab.com/pew7239)
 <p align="left">
 </p>
 
